@@ -9,6 +9,7 @@ Awesome EVE Frontier
 - [EVE Frontier Map](https://frontier-atlas.com/map)
 - [EVE Datacore](https://evedataco.re/)
   A collection of tools and data for the game EVE Frontier
+- [EVE Frontier killboard](https://frontier.alpha-strike.space/)
 
 ### Resources
 - [Unofficial EVE Frontier Development Notes](https://frontier.scetrov.live/)
