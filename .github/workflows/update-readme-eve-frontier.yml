@@ -58,8 +58,11 @@ jobs:
 
           {
             echo "# Awesome EVE Frontier Project on Github"
-            echo "_Updated: $UPDATED_AT_"
-            echo |---|
+            echo
+            echo "<small><em>Updated: $UPDATED_AT</em></small>"
+            echo
+            echo "---"
+            echo
             echo "Total projects collected: **$TOTAL**"
             echo
 
