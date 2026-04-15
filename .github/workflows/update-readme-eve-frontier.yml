@@ -94,7 +94,17 @@ jobs:
                   ]
                 | @tsv
               ' all_repos.json | while IFS=$'\t' read -r idx full_name html_url stars updated_at description; do
-                echo "| $idx | [$full_name]($html_url) | $stars | $updated_at | $description |"
+
+                if [ "$updated_at" != "-" ]; then
+                  updated_ts=$(date -d "$updated_at" +%s)
+                  now_ts=$(date +%s)
+                  days=$(( (now_ts - updated_ts) / 86400 ))
+                  updated_str="${days} days ago"
+                else
+                  updated_str="-"
+                fi
+
+                echo "| $idx | [$full_name]($html_url) | $stars | $updated_str | $description |"
               done
 
               echo
