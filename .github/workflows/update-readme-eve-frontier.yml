@@ -57,11 +57,10 @@ jobs:
           TOTAL="$(jq 'length' all_repos.json)"
 
           {
-            echo "# EVE Frontier repositories"
-            echo
-            echo "Updated: $UPDATED_AT"
-            echo
-            echo "Total repositories collected: **$TOTAL**"
+            echo "# Awesome EVE Frontier Project on Github"
+            echo "_Updated: $UPDATED_AT_"
+            echo |---|
+            echo "Total projects collected: **$TOTAL**"
             echo
 
             jq -r '
@@ -72,7 +71,7 @@ jobs:
             ' all_repos.json | while IFS= read -r language; do
               echo "## $language"
               echo
-              echo "| # | Repository | Stars | Updated | Description |"
+              echo "| # | Repository | ⭐ | 🔄️ | Description |"
               echo "|---:|---|---:|---|---|"
 
               jq -r --arg lang "$language" '
@@ -99,7 +98,7 @@ jobs:
                   updated_ts=$(date -d "$updated_at" +%s)
                   now_ts=$(date +%s)
                   days=$(( (now_ts - updated_ts) / 86400 ))
-                  updated_str="${days} days ago"
+                  updated_str="`${days}d ago`"
                 else
                   updated_str="-"
                 fi
