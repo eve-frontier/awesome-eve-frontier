@@ -1,9 +1,9 @@
-name: Update README with "eve frontier" repositories
+name: Update README with EVE Frontier repositories
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 3 * * *" # каждый день в 03:00 UTC
+    - cron: "0 3 * * *"
 
 permissions:
   contents: write
@@ -59,31 +59,45 @@ jobs:
           {
             echo "# EVE Frontier repositories"
             echo
-            echo "GitHub search query: \`$QUERY\`"
-            echo
             echo "Updated: $UPDATED_AT"
             echo
             echo "Total repositories collected: **$TOTAL**"
             echo
-            echo "## Repository list"
-            echo
-            echo "| # | Repository | Stars | Language | Updated | Description |"
-            echo "|---:|---|---:|---|---|---|"
 
             jq -r '
-              to_entries[]
-              | [
-                  (.key + 1),
-                  .value.full_name,
-                  .value.html_url,
-                  .value.stargazers_count,
-                  (.value.language // "-"),
-                  (.value.updated_at // "-"),
-                  ((.value.description // "-") | gsub("\\r|\\n"; " ") | gsub("\\|"; "\\\\|"))
-                ]
-              | @tsv
-            ' all_repos.json | while IFS=$'\t' read -r idx full_name html_url stars language updated_at description; do
-              echo "| $idx | [$full_name]($html_url) | $stars | $language | $updated_at | $description |"
+              group_by(.language // "Unknown")
+              | sort_by(.[0].language // "Unknown")
+              | .[]
+              | (.[0].language // "Unknown")
+            ' all_repos.json | while IFS= read -r language; do
+              echo "## $language"
+              echo
+              echo "| # | Repository | Stars | Updated | Description |"
+              echo "|---:|---|---:|---|---|"
+
+              jq -r --arg lang "$language" '
+                map(select((.language // "Unknown") == $lang))
+                | sort_by(-.stargazers_count)
+                | to_entries[]
+                | [
+                    (.key + 1),
+                    .value.full_name,
+                    .value.html_url,
+                    .value.stargazers_count,
+                    (.value.updated_at // "-"),
+                    (
+                      (.value.description // "-")
+                      | gsub("\\r|\\n"; " ")
+                      | gsub("\\|"; "\\\\|")
+                      | if length > 200 then .[0:200] + "..." else . end
+                    )
+                  ]
+                | @tsv
+              ' all_repos.json | while IFS=$'\t' read -r idx full_name html_url stars updated_at description; do
+                echo "| $idx | [$full_name]($html_url) | $stars | $updated_at | $description |"
+              done
+
+              echo
             done
           } > README.md
 
@@ -100,5 +114,5 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add README.md
-          git commit -m "Update README with GitHub search results for eve frontier"
+          git commit -m "Update README with EVE Frontier repositories"
           git push
