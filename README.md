@@ -1,6 +1,6 @@
 # Awesome EVE Frontier Project on Github
 
-<small><em>Updated: 2026-04-15 02:02:04 UTC</em></small>
+<small><em>Updated: 2026-04-15 05:16:13 UTC</em></small>
 
 ---
 
@@ -46,9 +46,9 @@ Total projects collected: **159**
 
 | # | Repository | ⭐ | 🔄️ | Description |
 |---:|---|---:|---|---|
-| 1 | [glutchkin/bountyscan](https://github.com/glutchkin/bountyscan) | 1 | 291d ago | EVE Frontier Bounties |
+| 1 | [glutchkin/bountyscan](https://github.com/glutchkin/bountyscan) | 1 | 292d ago | EVE Frontier Bounties |
 | 2 | [2000-elo/EVE-Frontier-Hackathon-2026-submission-website](https://github.com/2000-elo/EVE-Frontier-Hackathon-2026-submission-website) | 0 | 33d ago | EVE Frontier Hackathon 2026 submission website |
-| 3 | [Diabolacal/scout-optimizer](https://github.com/Diabolacal/scout-optimizer) | 0 | 115d ago | Simple unconnected systems route finder for Eve Frontier |
+| 3 | [Diabolacal/scout-optimizer](https://github.com/Diabolacal/scout-optimizer) | 0 | 116d ago | Simple unconnected systems route finder for Eve Frontier |
 | 4 | [McCalistarzHQ/McCaliVerse-Room0](https://github.com/McCalistarzHQ/McCaliVerse-Room0) | 0 | 285d ago | Room 0 Gateway for the McCaliVerse — the bridge app to link EVE Frontier, Meta Horizon, and the real world |
 | 5 | [Mogsa/Assay](https://github.com/Mogsa/Assay) | 0 | 1d ago | A Say — where AI agents and humans have a say. Reddit-style platform replacing peer review and frontier evals. |
 | 6 | [OTTOREIKU/Vault-Pact](https://github.com/OTTOREIKU/Vault-Pact) | 0 | 4d ago | EVE Frontier - SSU dapp - Storage / Inventory - Deposit and Withdraw from a shared pool with analytics |
@@ -107,7 +107,7 @@ Total projects collected: **159**
 | # | Repository | ⭐ | 🔄️ | Description |
 |---:|---|---:|---|---|
 | 1 | [EveULuvMe/singuhunt-contracts](https://github.com/EveULuvMe/singuhunt-contracts) | 4 | 8d ago | PVP game inside EVE frontier |
-| 2 | [tbsherlock/FrontierEventStreamer](https://github.com/tbsherlock/FrontierEventStreamer) | 3 | 13d ago | A checkpoint-driven event scanner for the **EVE Frontier** world package on the Sui blockchain |
+| 2 | [tbsherlock/FrontierEventStreamer](https://github.com/tbsherlock/FrontierEventStreamer) | 3 | 14d ago | A checkpoint-driven event scanner for the **EVE Frontier** world package on the Sui blockchain |
 | 3 | [TLIEPE/eve-frontier-ssu-sorter](https://github.com/TLIEPE/eve-frontier-ssu-sorter) | 2 | 62d ago | EVE Frontier SSU Sorter – on-chain resource automation mod (Sui Move). Early prototype for programmable Smart Assemblies. |
 | 4 | [Epeon/eve-frontier-turret-extension](https://github.com/Epeon/eve-frontier-turret-extension) | 1 | 33d ago | Multifunctional Smart-turret contract |
 | 5 | [2000-elo/eve-frontier-bounty-sui](https://github.com/2000-elo/eve-frontier-bounty-sui) | 0 | 20d ago | Decentralized bounty board for EVE Frontier built on Sui. Post SUI-backed bounties, hunters claim rewards on kill verification. |
@@ -130,18 +130,18 @@ Total projects collected: **159**
 
 | # | Repository | ⭐ | 🔄️ | Description |
 |---:|---|---:|---|---|
-| 1 | [openai/frontier-evals](https://github.com/openai/frontier-evals) | 1166 | 0d ago | OpenAI Frontier Evals |
+| 1 | [openai/frontier-evals](https://github.com/openai/frontier-evals) | 1167 | 0d ago | OpenAI Frontier Evals |
 | 2 | [Scetrov/frontier.scetrov.live](https://github.com/Scetrov/frontier.scetrov.live) | 3 | 3d ago | Unofficial EVE Frontier Development Notes — development documentation for the game, including detailed descriptions of each contract and component of the system, constantly updated over. |
 | 3 | [Scetrov/eve_frontier_dataviz](https://github.com/Scetrov/eve_frontier_dataviz) | 2 | 26d ago | Data Visualisation for EVE Frontier |
-| 4 | [ChristianLin0420/RL-is-Every-Thing-You-Must-Learn](https://github.com/ChristianLin0420/RL-is-Every-Thing-You-Must-Learn) | 1 | 119d ago | A comprehensive 30-day journey through advanced reinforcement learning concepts, from foundational theory to cutting-edge research frontiers. |
+| 4 | [ChristianLin0420/RL-is-Every-Thing-You-Must-Learn](https://github.com/ChristianLin0420/RL-is-Every-Thing-You-Must-Learn) | 1 | 120d ago | A comprehensive 30-day journey through advanced reinforcement learning concepts, from foundational theory to cutting-edge research frontiers. |
 | 5 | [ProtoDroidBot/lemegetonmodloader-POC1](https://github.com/ProtoDroidBot/lemegetonmodloader-POC1) | 1 | 11d ago | An EVE Frontier external mod loader framework POC thing |
 | 6 | [tylerstraub/ef-iris](https://github.com/tylerstraub/ef-iris) | 1 | 10d ago | "ready to go" Claude Code workspace for working with primary EVE Frontier official data sources |
 | 7 | [Aaradhkm/EventHub-Backend-](https://github.com/Aaradhkm/EventHub-Backend-) | 0 | 531d ago | An Application which acts as frontier for Clients and Vendors for hosting and analysing events. This web application is built using React, Redux, Django Rest Framework, and JWT authentication. |
-| 8 | [Alexanderk30/frontier-RL-context-correction](https://github.com/Alexanderk30/frontier-RL-context-correction) | 0 | 2d ago | RL-style eval measuring intent/action divergence in frontier agents: model acknowledges a correction, then acts on the stale value anyway. 3 scenarios, 371 trials on claude-haiku-4-5, Sonnet 4.6, GPT-... |
+| 8 | [Alexanderk30/frontier-RL-context-correction](https://github.com/Alexanderk30/frontier-RL-context-correction) | 0 | 0d ago | RL-style eval measuring intent/action divergence in frontier agents: model acknowledges a correction, then acts on the stale value anyway. 3 scenarios, 371 trials on claude-haiku-4-5, Sonnet 4.6, GPT-... |
 | 9 | [AreteDriver/monolith](https://github.com/AreteDriver/monolith) | 0 | 1d ago | Blockchain anomaly detector & bug report engine for EVE Frontier on Sui |
 | 10 | [AreteDriver/watchtower](https://github.com/AreteDriver/watchtower) | 0 | 3d ago | Witness — The Living Memory of EVE Frontier. Chain archaeology + Oracle intelligence. |
 | 11 | [Iztolie/EVEFrontAIr](https://github.com/Iztolie/EVEFrontAIr) | 0 | 474d ago | Anthropic connection for EVE Frontier |
-| 12 | [Ratnaditya-J/RealBench-Pro](https://github.com/Ratnaditya-J/RealBench-Pro) | 0 | 59d ago | Benchmark and eval platform for frontier risks in genAI models |
+| 12 | [Ratnaditya-J/RealBench-Pro](https://github.com/Ratnaditya-J/RealBench-Pro) | 0 | 60d ago | Benchmark and eval platform for frontier risks in genAI models |
 | 13 | [SuriPfote/EFBM](https://github.com/SuriPfote/EFBM) | 0 | 391d ago | EVE Frontier Blueprint Miracle - A tool for analyzing EVE Online blueprints and optimizing production chains |
 | 14 | [alrod97/machiavelli-eval](https://github.com/alrod97/machiavelli-eval) | 0 | 33d ago | Graph-based Machiavellian behavior evals for frontier LLMs — 12 models, 15 scenarios, 3,600 runs |
 | 15 | [jsp2195/frontier-evals-harness](https://github.com/jsp2195/frontier-evals-harness) | 0 | 54d ago | frontier-evals-harness is a lightweight framework for benchmarking frontier language models. It provides deterministic suite versioning, modular adapters, standardized scoring, and paired statistical ... |
@@ -152,7 +152,7 @@ Total projects collected: **159**
 
 | # | Repository | ⭐ | 🔄️ | Description |
 |---:|---|---:|---|---|
-| 1 | [kandrsn99/frontierRwrapper](https://github.com/kandrsn99/frontierRwrapper) | 0 | 417d ago | An API wrapper for Eve Frontier in the R programming language. |
+| 1 | [kandrsn99/frontierRwrapper](https://github.com/kandrsn99/frontierRwrapper) | 0 | 418d ago | An API wrapper for Eve Frontier in the R programming language. |
 
 ## Ruby
 
@@ -167,7 +167,7 @@ Total projects collected: **159**
 | 1 | [VULTUR-EveFrontier/stellar-cartography](https://github.com/VULTUR-EveFrontier/stellar-cartography) | 2 | 275d ago | EVE Frontier Stellar Mapping API built with Rust |
 | 2 | [beaukode/evedatacore-route-planner](https://github.com/beaukode/evedatacore-route-planner) | 2 | 11d ago | A high-performance route planning tool for EVE Frontier, built in Rust. This tool helps calculate optimal paths through star systems using A* search algorithm. |
 | 3 | [Ocky-Public/Frontier-Indexer](https://github.com/Ocky-Public/Frontier-Indexer) | 1 | 2d ago | Custom Sui indexer for the EVE Frontier world contracts |
-| 4 | [mattwilkinsonn/sentinel](https://github.com/mattwilkinsonn/sentinel) | 1 | 1d ago | Decentralized threat intelligence network for EVE Frontier on Sui. |
+| 4 | [mattwilkinsonn/sentinel](https://github.com/mattwilkinsonn/sentinel) | 1 | 0d ago | Decentralized threat intelligence network for EVE Frontier on Sui. |
 
 ## Solidity
 
@@ -175,7 +175,7 @@ Total projects collected: **159**
 |---:|---|---:|---|---|
 | 1 | [projectawakening/builder-examples](https://github.com/projectawakening/builder-examples) | 97 | 20d ago | Examples for Builders to learn from and create in EVE Frontier. |
 | 2 | [ciiol/frontier-custom-storage](https://github.com/ciiol/frontier-custom-storage) | 4 | 283d ago | Experiments with smart contracts in EVE Frontier |
-| 3 | [sovrun/pa-hack](https://github.com/sovrun/pa-hack) | 0 | 386d ago | eve online frontier / project awakening hackathon release for phase 3 (migration) |
+| 3 | [sovrun/pa-hack](https://github.com/sovrun/pa-hack) | 0 | 387d ago | eve online frontier / project awakening hackathon release for phase 3 (migration) |
 
 ## TypeScript
 
@@ -192,10 +192,10 @@ Total projects collected: **159**
 | 9 | [FWangZil/eve-frontier-intel-sui](https://github.com/FWangZil/eve-frontier-intel-sui) | 1 | 12d ago | Community-driven intelligence network for the EVE Frontier game world, built on Sui — aggregate individual judgments into real-time probability signals with collateral-backed conviction. |
 | 10 | [Scetrov/void-eid](https://github.com/Scetrov/void-eid) | 1 | 1d ago | Void eID — EVE Frontier Tribe Management Portal based around open standards and technology, designed to unify products and services within the ecosystem. |
 | 11 | [murphyslaw/frontier-blueprint-browser](https://github.com/murphyslaw/frontier-blueprint-browser) | 1 | 279d ago | A browser for EVE:Frontier blueprint data based on the EVE client data. |
-| 12 | [projectawakening/pod-flow](https://github.com/projectawakening/pod-flow) | 1 | 26d ago | A standalone use case MOCKing environment for EVE Frontier POD and smart contract development. It provides all of the tools and scripts necessary to create a set of PODs, and GPC circuits, to prove an... |
+| 12 | [projectawakening/pod-flow](https://github.com/projectawakening/pod-flow) | 1 | 27d ago | A standalone use case MOCKing environment for EVE Frontier POD and smart contract development. It provides all of the tools and scripts necessary to create a set of PODs, and GPC circuits, to prove an... |
 | 13 | [rustydb/sentinel](https://github.com/rustydb/sentinel) | 1 | 2d ago | Defense telemetry for EVE Frontier. |
 | 14 | [Ada-ada-000/frontier-trade-routes](https://github.com/Ada-ada-000/frontier-trade-routes) | 0 | 14d ago | Privacy-aware logistics and intel market for EVE Frontier on Sui |
-| 15 | [Astrotrillionaire/mercenaries](https://github.com/Astrotrillionaire/mercenaries) | 0 | 14d ago | An EVE Frontier d-app allowing users to place, track, and claim bounties on others in a way that is maximally gas efficient. |
+| 15 | [Astrotrillionaire/mercenaries](https://github.com/Astrotrillionaire/mercenaries) | 0 | 15d ago | An EVE Frontier d-app allowing users to place, track, and claim bounties on others in a way that is maximally gas efficient. |
 | 16 | [Brettius31337/SmartShelters](https://github.com/Brettius31337/SmartShelters) | 0 | 11d ago | EVE Frontier Hackathon 2026 Entry for a dApp for the Shelters in Eve Frontier, that allows for custom tribe/corporation and standings based access to ships stored in the Shelter or Heavy Shelter for s... |
 | 17 | [CCP-2FaceMonkey/Frontier-Library](https://github.com/CCP-2FaceMonkey/Frontier-Library) | 0 | 12d ago | **Monkey Library** is a decentralized application (dapp) on the **Sui blockchain**, connected to **Eve Frontier**. Its purpose is to act as an in-world **library**: players can **purchase and read**: |
 | 18 | [DarylLim/GHOST](https://github.com/DarylLim/GHOST) | 0 | 17d ago | GHOST (Guided Heuristic Onboard Survival Tactician) is a personal AI companion for every player in EVE Frontier. |
@@ -205,9 +205,9 @@ Total projects collected: **159**
 | 22 | [Econmartin/eve-frontier-space](https://github.com/Econmartin/eve-frontier-space) | 0 | 13d ago | - |
 | 23 | [Evangel90/Alliance-Protocol](https://github.com/Evangel90/Alliance-Protocol) | 0 | 14d ago | EVE Frontier game mod |
 | 24 | [Eve-Frontier-Changsha-2026/Frontier_Explorer_Hub](https://github.com/Eve-Frontier-Changsha-2026/Frontier_Explorer_Hub) | 0 | 7d ago | EVE Frontier Hackathon Project: Frontier_Explorer_Hub |
-| 25 | [Eve-Frontier-Changsha-2026/Wreckage_Insurance_Protocol](https://github.com/Eve-Frontier-Changsha-2026/Wreckage_Insurance_Protocol) | 0 | 12d ago | EVE Frontier Hackathon Project: Wreckage_Insurance_Protocol |
+| 25 | [Eve-Frontier-Changsha-2026/Wreckage_Insurance_Protocol](https://github.com/Eve-Frontier-Changsha-2026/Wreckage_Insurance_Protocol) | 0 | 13d ago | EVE Frontier Hackathon Project: Wreckage_Insurance_Protocol |
 | 26 | [Fugashu/eve-frontier-demo-frontend](https://github.com/Fugashu/eve-frontier-demo-frontend) | 0 | 555d ago | - |
-| 27 | [HookieBookie/Plutarch-Eve-Frontier-Sui-Hack](https://github.com/HookieBookie/Plutarch-Eve-Frontier-Sui-Hack) | 0 | 14d ago | - |
+| 27 | [HookieBookie/Plutarch-Eve-Frontier-Sui-Hack](https://github.com/HookieBookie/Plutarch-Eve-Frontier-Sui-Hack) | 0 | 15d ago | - |
 | 28 | [Internet-Spaceship-Enterprises/frontier-transit-authority](https://github.com/Internet-Spaceship-Enterprises/frontier-transit-authority) | 0 | 2d ago | The EVE Frontier Gate Network |
 | 29 | [Jonnyblue/eve-frontier-inventory](https://github.com/Jonnyblue/eve-frontier-inventory) | 0 | 20d ago | - |
 | 30 | [Leac1m/eve-frontier-mods](https://github.com/Leac1m/eve-frontier-mods) | 0 | 14d ago | - |
@@ -225,21 +225,21 @@ Total projects collected: **159**
 | 42 | [aria-trading-system/eve-frontier-hackaton-2026](https://github.com/aria-trading-system/eve-frontier-hackaton-2026) | 0 | 14d ago | - |
 | 43 | [brainy-bots/efguard](https://github.com/brainy-bots/efguard) | 0 | 13d ago | Access control middleware for EVE Frontier smart assemblies on Sui |
 | 44 | [brainy-bots/frontier-market](https://github.com/brainy-bots/frontier-market) | 0 | 16d ago | A vending machine for EVE Frontier smart storage units, powered by ef_guard access control |
-| 45 | [curtisalleynesr/PROJECT-MIRAGE](https://github.com/curtisalleynesr/PROJECT-MIRAGE) | 0 | 0d ago | The Aegis Protocol (Project Mirage) is a "Zero-Trust Corporate Operating System" and "Fleet Command Console" designed as a submission for the EVE Frontier x Sui Hackathon. |
-| 46 | [d1v-community/EveMedals](https://github.com/d1v-community/EveMedals) | 0 | 13d ago | A decentralized achievement system for EVE Frontier, utilizing Sui network to track player behavior and reward non-tran… |
+| 45 | [curtisalleynesr/PROJECT-MIRAGE](https://github.com/curtisalleynesr/PROJECT-MIRAGE) | 0 | 1d ago | The Aegis Protocol (Project Mirage) is a "Zero-Trust Corporate Operating System" and "Fleet Command Console" designed as a submission for the EVE Frontier x Sui Hackathon. |
+| 46 | [d1v-community/EveMedals](https://github.com/d1v-community/EveMedals) | 0 | 14d ago | A decentralized achievement system for EVE Frontier, utilizing Sui network to track player behavior and reward non-tran… |
 | 47 | [frontier-reapers/pve-turrets](https://github.com/frontier-reapers/pve-turrets) | 0 | 31d ago | EVE Frontier Smart Turret code to target NPCs |
 | 48 | [gradiuscypher/frontier-crafter](https://github.com/gradiuscypher/frontier-crafter) | 0 | 297d ago | App to help keep track of the things you want to make in EVE Frontier |
 | 49 | [inclu-media/eve-frontier-poker](https://github.com/inclu-media/eve-frontier-poker) | 0 | 15d ago | - |
 | 50 | [jacattac314/ModelOps-Control-Tower-Core-LLM-Program-Simulator](https://github.com/jacattac314/ModelOps-Control-Tower-Core-LLM-Program-Simulator) | 0 | 83d ago | A program management system for frontier model training: experiments, evals, data, infra signals, and launch gates — unified into one operational view. |
-| 51 | [jasonchotchkiss/tribe-hangar-admin](https://github.com/jasonchotchkiss/tribe-hangar-admin) | 0 | 30d ago | Blockchain-enforced shared tribe vault for EVE Frontier, built on Sui. |
+| 51 | [jasonchotchkiss/tribe-hangar-admin](https://github.com/jasonchotchkiss/tribe-hangar-admin) | 0 | 31d ago | Blockchain-enforced shared tribe vault for EVE Frontier, built on Sui. |
 | 52 | [kalipatu/Turret_Extension](https://github.com/kalipatu/Turret_Extension) | 0 | 16d ago | Create and authorise a turret extension to customise the smart turret function on EVE Frontier |
 | 53 | [muhammadtakdir/EVE-Frontier-Toll-Gate-Marketplace](https://github.com/muhammadtakdir/EVE-Frontier-Toll-Gate-Marketplace) | 0 | 19d ago | A Sui Move smart contract extension for EVE Frontier that adds two on-chain mechanics:  Toll Gate — Gate owners charge a SUI fee for passage. Travelers pay the toll to receive a single-use JumpPermit.... |
 | 54 | [murphyslaw/frontier-stats](https://github.com/murphyslaw/frontier-stats) | 0 | 275d ago | Stats for EVE:Frontier |
-| 55 | [nhatlapross/eve-tracker](https://github.com/nhatlapross/eve-tracker) | 0 | 16d ago | A crowdsourced intelligence platform for EVE Frontier pilots. Interactive star map, on-chain resource sighting reports with peer verification, route planner, item browser, cargo calculator, and capsul... |
+| 55 | [nhatlapross/eve-tracker](https://github.com/nhatlapross/eve-tracker) | 0 | 17d ago | A crowdsourced intelligence platform for EVE Frontier pilots. Interactive star map, on-chain resource sighting reports with peer verification, route planner, item browser, cargo calculator, and capsul... |
 | 56 | [obselate/void-exchange](https://github.com/obselate/void-exchange) | 0 | 14d ago | EVE Frontier AMM |
-| 57 | [r4wf0d0g23/Reality_Anchor_Eve_Frontier_Hackathon_2026](https://github.com/r4wf0d0g23/Reality_Anchor_Eve_Frontier_Hackathon_2026) | 0 | 13d ago | - |
+| 57 | [r4wf0d0g23/Reality_Anchor_Eve_Frontier_Hackathon_2026](https://github.com/r4wf0d0g23/Reality_Anchor_Eve_Frontier_Hackathon_2026) | 0 | 14d ago | - |
 | 58 | [shaibuafeez/overseer](https://github.com/shaibuafeez/overseer) | 0 | 14d ago | AI-Powered Civilization Autopilot for EVE Frontier — Smart Turrets, Gates & Storage on Sui |
-| 59 | [tehfiend/Frontier-Periscope](https://github.com/tehfiend/Frontier-Periscope) | 0 | 8d ago | Organizational toolkit for EVE Frontier. Custom currencies via in-browser Move bytecode patching, on-chain order book markets with atomic escrow, standings-gated diplomacy, gate tolls, shared treasuri... |
+| 59 | [tehfiend/Frontier-Periscope](https://github.com/tehfiend/Frontier-Periscope) | 0 | 9d ago | Organizational toolkit for EVE Frontier. Custom currencies via in-browser Move bytecode patching, on-chain order book markets with atomic escrow, standings-gated diplomacy, gate tolls, shared treasuri... |
 | 60 | [tsal/sanshas-helper](https://github.com/tsal/sanshas-helper) | 0 | 232d ago | Discord bot focused on EVE Frontier |
 
 ## Unknown
